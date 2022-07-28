@@ -71,7 +71,7 @@ h1 {
   color: var(--color-header);
 }
 
-navigation {
+nav {
   display: flex;
   justify-content: flex-start;
   background-color: var(--background-color-nav);
@@ -130,8 +130,8 @@ main {
   color: #152D41;
 
 }
-.specialist_text_circle1,
-.specialist_text_circle2 {
+.specialist-text-circle1,
+.specialist-text-circle2 {
   height: 197px;
   width: 197px;
   background: url(../img/people-women-art.jpg) no-repeat center center;

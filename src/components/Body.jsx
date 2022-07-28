@@ -2,8 +2,8 @@ import React from "react";
 import "../style/style.css";
 import { ServiceBox } from "./ServiceBox";
 
-  const urlOfFirstFotoOne = "specialist_text_circle1";
-  const urlOfFirstFotoTwo = "specialist_text_circle2";
+  const urlOfFirstFotoOne = "specialist-text-circle1";
+  const urlOfFirstFotoTwo = "specialist-text-circle2";
   const nameSurnameOne = "Imię i Nazwisko [ dział ]";
   const nameSurnameTwo = "Imię i Nazwisko [ dział ]";
   const boxTitleText = "Czym zajmuje się nasza firma?";
